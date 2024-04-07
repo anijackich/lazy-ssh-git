@@ -1,2 +1,6 @@
-# lazy-ssh-git
-Lazy way to configure multiple git accounts with ssh keys
+# Lazy SSH Git
+
+## How to run
+```shell
+bash -c "$(wget -q -O - https://raw.githubusercontent.com/anijackich/lazy-ssh-git/main/lazy-ssh-git.sh)"
+```
